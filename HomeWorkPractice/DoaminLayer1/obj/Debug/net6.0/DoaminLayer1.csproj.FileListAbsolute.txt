@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\bin\Debug\net6.0\DoaminLayer1.deps.json
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\bin\Debug\net6.0\DoaminLayer1.dll
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\bin\Debug\net6.0\DoaminLayer1.pdb
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.dll
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\refint\DoaminLayer1.dll
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\DoaminLayer1.pdb
+C:\Users\ADMIN\Desktop\HomeWorkPractice\HomeWorkPractice\DoaminLayer1\obj\Debug\net6.0\ref\DoaminLayer1.dll
